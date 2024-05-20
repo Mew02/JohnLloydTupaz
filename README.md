@@ -24,5 +24,5 @@ I am John Lloyd Tupaz, with a flair for coding and database management skills. I
 
 You may reach me at:
 
-- **LinkedIn:** 
+- **LinkedIn:**https://www.linkedin.com/in/john-lloyd-tupaz-63066420a/?trk=opento_sprofile_details
 - **Email:** jlloyd.tupaz@gmail.com
