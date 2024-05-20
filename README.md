@@ -13,6 +13,8 @@ I am John Lloyd Tupaz, with a flair for coding and database management skills. I
 ## Certification
 
 - https://courses.cognitiveclass.ai/certificates/c68e195ed04a4722807f479511011b06
+- https://simpli-web.app.link/e/9NMfwWJkKJb
+- 
 
 ## Skill Sets
 
